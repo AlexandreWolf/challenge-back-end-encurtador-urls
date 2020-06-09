@@ -41,7 +41,7 @@ O banco de dados pode ser MongoDB , MySQL ou PostgreSQL.
 Desenvolver Testes :white_check_mark:  
 Utilizar Typescript :white_check_mark:  
 Ambiente Docker utilizando o docker-compose. :clock1:  
-Um ou mais Code Patterns :white_check_mark:
+Um ou mais Code Patterns :white_check_mark:  
 Realizar o deploy em algum servidor público como Heroku :clock1:  
 Documentação em Swagger :white_check_mark: e/ou Postman :clock1:  
 
