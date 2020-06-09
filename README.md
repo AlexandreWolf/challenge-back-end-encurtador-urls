@@ -43,7 +43,7 @@ O banco de dados pode ser MongoDB , MySQL ou PostgreSQL.
 :clock1:Ambiente Docker utilizando o docker-compose.   
 :white_check_mark: Um ou mais Code Patterns  
 :clock1: Realizar o deploy em algum servidor público como Heroku  
-:clock1: Documentação em Swagger :white_check_mark: e/ou Postman  
+:white_check_mark:Documentação em Swagger e/ou Postman  
 
 # Configurando o ambiente
 
