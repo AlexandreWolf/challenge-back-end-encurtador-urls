@@ -1,11 +1,11 @@
 <p align="center">
  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="#configurar">Configurar ambiente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="#executar">Executar</a>
+ <a href="#configurando-o-ambiente">Configurando o ambiente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#como-executar">Como executar</a>
 </p>
 
 
-## Sobre o projeto
+# Sobre
 
 Seu serviço irá receber inicialmente como parâmetro uma URL que deverá ser encurtada seguindo as seguintes regras:
 1. Mínimo de 5 e máximo de 10 caracteres.
@@ -38,14 +38,14 @@ O endpoint que salva a url e retorna a url encurtada DEVE ser um POST com a rota
 O banco de dados pode ser MongoDB , MySQL ou PostgreSQL.
 
 ### Desafios Opcionais
-Desenvolver Testes :white_check_mark:
-Utilizar Typescript :white_check_mark:
-Ambiente Docker utilizando o docker-compose. :clock1:
+Desenvolver Testes :white_check_mark:  
+Utilizar Typescript :white_check_mark:  
+Ambiente Docker utilizando o docker-compose. :clock1:  
 Um ou mais Code Patterns :white_check_mark:
-Realizar o deploy em algum servidor público como Heroku :clock1:
-Documentação em Swagger :white_check_mark: e/ou Postman :clock1:
+Realizar o deploy em algum servidor público como Heroku :clock1:  
+Documentação em Swagger :white_check_mark: e/ou Postman :clock1:  
 
-# Como configurar
+# Configurando o ambiente
 
 ## Pré-requisitos
 
