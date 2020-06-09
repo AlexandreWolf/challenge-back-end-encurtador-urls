@@ -38,12 +38,12 @@ O endpoint que salva a url e retorna a url encurtada DEVE ser um POST com a rota
 O banco de dados pode ser MongoDB , MySQL ou PostgreSQL.
 
 ### Desafios Opcionais
-Desenvolver Testes :white_check_mark:  
-Utilizar Typescript :white_check_mark:  
-Ambiente Docker utilizando o docker-compose. :clock1:  
-Um ou mais Code Patterns :white_check_mark:  
-Realizar o deploy em algum servidor público como Heroku :clock1:  
-Documentação em Swagger :white_check_mark: e/ou Postman :clock1:  
+:white_check_mark: Desenvolver Testes  
+:white_check_mark: Utilizar Typescript  
+:clock1:Ambiente Docker utilizando o docker-compose.   
+:white_check_mark: Um ou mais Code Patterns  
+:clock1: Realizar o deploy em algum servidor público como Heroku  
+:clock1: Documentação em Swagger :white_check_mark: e/ou Postman  
 
 # Configurando o ambiente
 
@@ -64,7 +64,7 @@ Documentação em Swagger :white_check_mark: e/ou Postman :clock1:
 
 
 ## Como executar?
-1. Execute `yarn dev: server` para iniciar o servidor;
+1. Execute `yarn dev:server` para iniciar o servidor;
 2. Execute `yarn test` para executar os testes se desejar, e para visualizar os resultados acesse o diretório _coverage/lcov-report_ e dê duplo clique no arquivo _index.html_;
 3. Com o servidor em execução acesse ```http://localhost:8081/api-docs```, onde você poderá consultar os endpoints disponíveis e realizar testes.
 
